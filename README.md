@@ -23,4 +23,4 @@ Requisitos para el montaje:
   
   -Tener instalado modulos de php: php-pear, php5.6-gd, php5.6-curl, php5.6-imap, php5.6-mbstring.
   
-  -Tener instalado PostgreSQL y ejecutar el script que dentro de base de datos.
+  -Tener instalado PostgreSQL y ejecutar el script sigecolDB.
