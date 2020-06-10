@@ -8,7 +8,7 @@
 // Directorio de instalación de SowerPHP, En caso de una instalación compartida
 // se debe modificar esta definición indicando el directorio donde está
 // instalado el framework, ejemplo: /usr/share/sowerphp
-define ('DIR_FRAMEWORK', '/var/www/sevegec.cl');
+define ('DIR_FRAMEWORK', "Direccion raiz del proyecto");
 
 // Directorio que contiene el proyecto (directorio project) ¡no modificar!
 define ('DIR_PROJECT', dirname(dirname(dirname(__FILE__))));
