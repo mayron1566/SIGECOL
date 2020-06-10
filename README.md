@@ -13,9 +13,14 @@ Se pone a disposicion el codigo fuente con la finalidad de servir como una base 
 
 Requisitos para el montaje:
 
-  Preferiblemente utilizar algun sistema GNU/LINUX para hospedar la pagina.
-  Tener instalado apache2.
-  Contar con PHP 5.6 (Versiones mayores de PHP causan incompatibilidad con ciertas funciones utilizadas).
-  Instalar mercurial y curl.
-  Tener instalado modulos de php: php-pear, php5.6-gd, php5.6-curl, php5.6-imap, php5.6-mbstring.
-  Tener instalado PostgreSQL y ejecutar el script que dentro de base de datos.
+  -Preferiblemente utilizar algun sistema GNU/LINUX para hospedar la pagina.
+  
+  -Tener instalado apache2.
+  
+  -Contar con PHP 5.6 (Versiones mayores de PHP causan incompatibilidad con ciertas funciones utilizadas).
+  
+  -Instalar mercurial y curl.
+  
+  -Tener instalado modulos de php: php-pear, php5.6-gd, php5.6-curl, php5.6-imap, php5.6-mbstring.
+  
+  -Tener instalado PostgreSQL y ejecutar el script que dentro de base de datos.
